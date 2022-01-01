@@ -14,6 +14,9 @@
 5. http
 6. Carousel Slider
 
+# Sample Video
+
+https://user-images.githubusercontent.com/69432186/147853233-60bbbad7-e0d5-419a-933f-039752f29273.mp4
 
 
 # Sample Images
