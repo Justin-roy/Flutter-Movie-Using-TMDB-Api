@@ -15,14 +15,11 @@
 6. http
 
 
-
-
 #Sample Images
 
-![Screenshot_20211225_203012](https://user-images.githubusercontent.com/69432186/147387848-983d7808-c0e5-4a5d-89fc-949384a238a1.jpg)
+![s2](https://user-images.githubusercontent.com/69432186/147852447-9b51998b-6d31-482a-891b-49ed62123a40.jpg)
 
-![Screenshot_20211225_203017](https://user-images.githubusercontent.com/69432186/147387850-a4c63596-7c5b-4e0c-8772-c6919e6b7313.jpg)
-
+![s1](https://user-images.githubusercontent.com/69432186/147852450-8377b9fb-fa6e-438a-9b38-c4d94650de88.jpg)
 
 A new Flutter project.
 
