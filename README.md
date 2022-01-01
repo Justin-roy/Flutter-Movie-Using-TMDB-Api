@@ -20,9 +20,10 @@
 
 <img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s2.jpg">      .
 <img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s1.jpg">      .
-<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s6.jpg">
 
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s6.jpg">      .
 <img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s4.jpg">      .
+
 <img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s3.jpg">      .
 <img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s5.jpg">
 
