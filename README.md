@@ -1,9 +1,10 @@
 # Flutter Movie App Using TMDB Api
 
 # Functionality 
-1. In This You Can See Tv Shows , Trending Movies, Top Rated Movies etc..
+1. In This Movie App You Can See Tv Shows , Trending Movies, Top Rated Movies , Animated Movies etc..
 2. You Can Play The Video(Trailer) also.
-3. You Can See Discriptions,Rating,Release date etc..
+3. You Can UpComing Movies
+4. You Can See Discriptions,Rating,Release date etc..
 
 # Packages Used
 1. TMDB Api
