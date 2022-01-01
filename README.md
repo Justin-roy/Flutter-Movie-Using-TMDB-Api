@@ -11,17 +11,20 @@
 2. Youtube Player
 3. Cached Network Image
 4. Google Fonts
-5. Carousel Slider
-6. http
-
-
-#Sample Images
-
-![s2](https://user-images.githubusercontent.com/69432186/147852447-9b51998b-6d31-482a-891b-49ed62123a40.jpg)
+5. http
+6. Carousel Slider
 
 
 
-![s1](https://user-images.githubusercontent.com/69432186/147852450-8377b9fb-fa6e-438a-9b38-c4d94650de88.jpg)
+# Sample Images
+
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s2.jpg">      .
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s1.jpg">      .
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s6.jpg">
+
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s4.jpg">      .
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s3.jpg">      .
+<img width="300" src="https://github.com/Justin-roy/Image-2/blob/main/s5.jpg">
 
 A new Flutter project.
 
